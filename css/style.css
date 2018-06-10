@@ -1,0 +1,281 @@
+/* CSS Document */
+*{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+body{
+	background-color: #BFF5F4;
+	background-image: url(../img/gray-shapes.jpg);
+}
+h1{
+	color: #FFFFFF;	
+}
+.contenido{
+	background-color: #EB0B0F;
+	border-radius: 13px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	width: 80%;
+	margin-left: 9%;
+	margin-right: 9%;
+}
+header{
+	width: 80%;
+	height: 105px;
+	margin-left: 10%;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 15px;
+	background-color: #117BDD;
+	border-radius: 12px;
+	margin-top: 34px;
+}
+img{
+	text-align: center;
+	border-radius: 10px;
+	
+}
+#divicion{
+	width: 100%;
+}
+.logo{
+	
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	height: 100px;
+	margin-left: 21px;
+	padding-left: 30px;
+}
+.titulo{
+	
+	display: inline-block;
+	vertical-align: top;
+	width: 67%;
+	height: 100px;
+	font-family: damion;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 70px;
+	color: #FFFFFF;
+}
+.principal{
+	
+	width: 80%;
+	margin-left: 10%;
+}
+.menu{
+	
+	width: 100%;
+	background-color: #117BDD;
+	margin-bottom: 15px;
+	border-radius: 12px;
+}
+li,.claseli{
+	display: inline-block;
+	vertical-align: top;
+	width: 13%;
+	background-color: #FFFFFF;
+	border-radius: 13px;
+	text-align: center;
+	font-size: 25px;
+	text-decoration: none;
+	padding-top: 4px;
+	border: 4px groove #030303;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	padding-bottom: 4px;
+	color: #186FA7;
+	margin-top: 17px;
+	margin-bottom: 17px;
+}
+ul{
+	text-decoration: none;
+	list-style: none;
+}
+a,.clasea{
+	text-decoration: none;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
+	color: #003E72;
+}
+.introduccion{
+	width: 100%;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 23px;
+	margin-top: 18px;
+}
+.textoIntro{
+	width: 49%;
+	display: inline-block;
+	vertical-align: top;
+	font-family: actor;
+	font-style: normal;
+	font-weight: 400;
+	text-align: justify;
+	padding-right: 17px;
+	padding-left: 17px;
+}
+.imgIntro{
+	width: 49%;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 40px;
+}
+.imagenes{
+	
+	width: 100%;
+	
+}
+.texto{
+	width: 100%;
+	background-color: #117BDD;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 16px;
+	margin-bottom: 19px;
+	margin-top: 32px;
+	color: #FFFFFF;
+	font-size: 20px;
+}
+.imagen{
+	
+	width: 100%;
+	
+}
+.condiciones{
+	
+	width: 100%;
+	background-color: #16A8E5;
+	display: inline-block;
+	vertical-align: top;
+	border-radius: 19px;
+	padding-top: 15px;
+	margin-top: 15px;
+}
+.tituloCondiciones{
+	text-align: center;
+	color: #FFFFFF;	
+}
+.condicion{
+	border: 4px groove #FFFFFF;
+	width: 32%;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #0B51BC;
+	margin-right: 0.5%;
+	margin-left: 0.5%;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	padding-top: 17px;
+	padding-right: 18px;
+	padding-bottom: 17px;
+	padding-left: 18px;
+	text-align: justify;
+	vertical-align: top;
+	min-height: 775px;
+	color: #FFFFFF;
+	font-size: 16px;
+}
+.imgCon{
+	
+	margin-left: 20%;
+	margin-top: 10%;
+	
+
+}
+#img01{
+	margin-top: 128px;	
+}
+#img03{
+	margin-top: 365px;	
+}
+footer{
+	width: 80%;
+	margin-left: 10%;
+	background-color: #117BDD;
+	margin-top: 20px;
+	border-radius: 9px;
+	padding-bottom: 18px;
+	margin-bottom: 25px;
+	padding-top: 19px;
+}
+.img1 {
+    width: 700px;
+    height: 299px;
+    margin-left: 14%;
+}
+
+.img2 {
+    width: 35px;
+    height: 35px;
+    margin-left: 37%;
+}
+.img3 {
+    width: 35px;
+    height: 35px;
+    margin-left: 7%;
+}
+.img4 {
+    width: 35px;
+    height: 35px;
+    margin-left: 7%;
+}
+.img5 {
+    width: 35px;
+    height: 35px;
+}
+.img6 {
+    width: 35px;
+    height: 35px;
+}
+.img7 {
+    width: 35px;
+    height: 35px;
+}
+.textTerm{
+	margin-bottom: 2%;
+	
+	text-align: center;
+}
+.textoEmail{
+	color: white;
+	margin-bottom: 24px;
+}
+.textoTelefono{
+    color:white;
+}
+.textoDireccion{
+    color:white;
+}
+.Campos{
+	width: 26%;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 4%;
+}
+.textoimg, .imgIconos{
+	
+	
+	display: inline-block;
+	vertical-align: top;
+}
+.imgIconos{
+	width: 14%;
+}
+.textoimg{
+	width: 84%;
+}
+hr, .linea{
+	border: 2px double #DFDFDF;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 18px;
+	margin-right: 18px;
+}
